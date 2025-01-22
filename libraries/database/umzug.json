@@ -1,0 +1,9 @@
+[
+  "0-departments-up.sql",
+  "1-employees-up.sql",
+  "2-employee-department-view-up.sql",
+  "3-refresh-employee-department-view-up.sql",
+  "4-employee-create-trigger-up.sql",
+  "5-employee-update-trigger-up.sql",
+  "6-employee-delete-trigger-up.sql"
+]
