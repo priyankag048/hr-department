@@ -1,10 +1,8 @@
 import process from 'node:process';
-import http2 from 'node:http';
+import http from 'node:http';
 import app from './app.ts';
 
-
-// TODO: check for secureServer
-const server = http2.createServer(app);
+const server = http.createServer(app);
 
 server.listen(8098);
 
